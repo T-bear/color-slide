@@ -1,0 +1,13 @@
+#demo {
+    border-radius: 50px;
+    width: 17px;
+}
+#winchr {
+    border: none;
+ }
+#myVideo {
+    opacity: 0;
+    position: absolute;
+    left: -100000px;
+    top: -1000000px;
+}
